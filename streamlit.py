@@ -8,9 +8,9 @@ Original file is located at
 """
 
 
-import yfinance as yf
-import streamlit as st
-import pandas as pd
+# import yfinance as yf
+# import streamlit as st
+# import pandas as pd
 
 st.write("""
 #simple stock price app
