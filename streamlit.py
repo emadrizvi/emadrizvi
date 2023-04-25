@@ -9,7 +9,7 @@ Original file is located at
 
 
 # import yfinance as yf
-# import streamlit as st
+import streamlit as st
 # import pandas as pd
 
 st.write("""
